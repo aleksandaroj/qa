@@ -8,4 +8,3 @@ neki_fajl_f3.sql
 -- ssrs
 
 -- ssis
-
