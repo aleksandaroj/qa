@@ -1,3 +1,3 @@
-this is new developer file on develop branch.
-it should be start point for two new feature branches.
-lets go...
+This is new developer file on develop branch.
+It should be start point for two new feature branches.
+Let's go...
