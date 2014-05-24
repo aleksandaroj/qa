@@ -1,0 +1,8 @@
+-- sql
+neki_fajl.sql
+neki_fajl_f3.sql
+-- ssis
+
+-- ssas
+
+-- ssrs
