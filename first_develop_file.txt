@@ -2,4 +2,4 @@ This is new developer file on develop branch.
 It should be start point for two new feature branches.
 Let's go...
 iz grane f/1
-
+f3 only
