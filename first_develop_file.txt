@@ -5,4 +5,6 @@ iz grane f/1
 f3 only
 s1
 s1
+s2
 izmena na repo
+s2
