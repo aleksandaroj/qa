@@ -3,4 +3,5 @@ It should be start point for two new feature branches.
 Let's go...
 iz grane f/1
 f3 only
+s1
 izmena na repo
