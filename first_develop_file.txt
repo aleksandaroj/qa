@@ -4,4 +4,5 @@ Let's go...
 iz grane f/1
 f3 only
 s1
+s1
 izmena na repo
